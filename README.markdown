@@ -1,10 +1,10 @@
 # Easter
 
-Aprendendo com danielcfreitas !
+Aprendendo com danielfreitas !
 
 ## Desenvolvimento
 
-Só Css !
+HTML E CSS !
 
 ## Descrição:
 
@@ -26,7 +26,7 @@ Autor: Alisson de Andrade Araujo"
 
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
 
- - [Féliz Pascoa](hhttps://alissonandradesistema.000webhostapp.com/felizpascoa)
+ - [Féliz Pascoa](hhttps://alissonandradesistema.000webhostapp.com/felizpascoa/)
  
   - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
 
