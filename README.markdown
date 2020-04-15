@@ -2,6 +2,11 @@
 
 Aprendendo com danielfreitas !
 
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/alissonandrade2020/htmlcss/master/feliz%20pascoa.png"
+" width="850px" />
+</h1>
+
 ## Desenvolvimento
 
 HTML E CSS !
@@ -26,7 +31,7 @@ Autor: Alisson de Andrade Araujo"
 
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
 
- - [Féliz Pascoa](https://alissonandradesistema.000webhostapp.com/felizpascoa/)
+ - [Féliz Páscoa](https://alissonandradesistema.000webhostapp.com/felizpascoa/)
  
   - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
 
@@ -50,4 +55,3 @@ Autor: Alisson de Andrade Araujo"
 
 
 :vulcan_salute::vulcan_salute: ***OBRIGADO PELO CARINHO E ATENÇÃO !!***  :vulcan_salute::vulcan_salute:
-
