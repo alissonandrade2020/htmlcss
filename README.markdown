@@ -21,7 +21,7 @@ Autor: Alisson de Andrade Araujo"
 
  - [Linkedin](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190)
 
-- [Instagram](https://www.instagram.com/alissonandradercc/)
+- [Instagram](https://www.instagram.com/alissonandradercc)
 
 - [Github](https://github.com/alissonandrade2020/)
 
